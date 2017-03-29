@@ -1,0 +1,5 @@
+cbainnovationlab/quorum
+
+Requires ETH_GENESIS_CONTENT environment variable.
+
+See `docker-compose.yml` for example usage.
